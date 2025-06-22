@@ -1,0 +1,4 @@
+streamlit
+pandas
+scikit-learn # Jika model Anda menggunakan algoritma dari scikit-learn
+joblib # Untuk memuat model

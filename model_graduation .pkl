@@ -1,0 +1,12 @@
+€•a      Œsklearn.naive_bayes”Œ
+BernoulliNB”“”)”}”(Œalpha”G?ğ      Œ	fit_prior”ˆŒ
+class_prior”NŒ
+force_alpha”ˆŒbinarize”G        Œfeature_names_in_”Œjoblib.numpy_pickle”ŒNumpyArrayWrapper”“”)”}”(Œsubclass”Œnumpy”Œ ndarray”“”Œshape”K…”Œorder”ŒC”Œdtype”hŒdtype”“”ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”bŒ
+allow_mmap”‰Œnumpy_array_alignment_bytes”Kub€•í       Œnumpy._core.multiarray”Œ_reconstruct”“”Œnumpy”Œ ndarray”“”K …”Cb”‡”R”(KK…”hŒdtype”“”ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”b‰]”(ŒACT composite score”ŒSAT total score”Œhigh school gpa”Œparental income”Œparent_edu_numerical”et”b.•e       Œn_features_in_”KŒclasses_”h
+)”}”(hhhK…”hhhhŒi8”‰ˆ‡”R”(KŒ<”NNNJÿÿÿÿJÿÿÿÿK t”bh ˆh!Kub
+ÿÿÿÿÿÿÿÿÿÿÿÿÿ               •T       Œclass_count_”h
+)”}”(hhhK…”hhhhŒf8”‰ˆ‡”R”(Kh*NNNJÿÿÿÿJÿÿÿÿK t”bh ˆh!Kubÿÿ     Ài@     à~@•6       Œfeature_count_”h
+)”}”(hhhKK†”hhhh2h ˆh!Kubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ     Ài@     Ài@     Ài@     Ài@     àc@     à~@     à~@     à~@     à~@     0z@•9       Œfeature_log_prob_”h
+)”}”(hhhKK†”hhhh2h ˆh!Kub
+ÿÿÿÿÿÿÿÿÿÿÿÿÿ ŒZc½s¿ ŒZc½s¿ ŒZc½s¿ ŒZc½s¿à¹á{“ÊĞ¿ h‘¡eˆ`¿ h‘¡eˆ`¿ h‘¡eˆ`¿ h‘¡eˆ`¿€0}zJÅ¿•6       Œclass_log_prior_”h
+)”}”(hhhK…”hhhh2h ˆh!KubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿB&ˆ>’ó¿àJxìNÖ¿•       Œ_sklearn_version”Œ1.6.1”ub.
